@@ -8,8 +8,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/isgo-golgo13/p2p_tunnel_svc/p2pc/client_config"
-	"github.com/isgo-golgo13/p2p_tunnel_svc/tun"
+	"github.com/isgo-golgo13/p2p-tuntap-go/p2pc/client_config"
+	"github.com/isgo-golgo13/p2p-tuntap-go/tun"
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
