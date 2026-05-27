@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/isgo-golgo13/p2p_tunnel_svc/tun"
+	"github.com/isgo-golgo13/p2p-tuntap-go/tun"
 
 	"github.com/google/gopacket/layers"
 	log "github.com/sirupsen/logrus"
