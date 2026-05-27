@@ -7,8 +7,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/isgo-golgo13/p2p_tunnel_svc/p2ps/server_config"
-	"github.com/isgo-golgo13/p2p_tunnel_svc/tun"
+	"github.com/isgo-golgo13/p2p-tuntap-go/p2ps/server_config"
+	"github.com/isgo-golgo13/p2p-tuntap-go/tun"
 
 	log "github.com/sirupsen/logrus"
 )
