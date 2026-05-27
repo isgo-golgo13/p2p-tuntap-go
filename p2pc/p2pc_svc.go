@@ -3,8 +3,8 @@ package main
 import (
 	"sync"
 
-	"github.com/isgo-golgo13/p2p_tunnel_svc/p2pc/client"
-	"github.com/isgo-golgo13/p2p_tunnel_svc/p2pc/client_config"
+	"github.com/isgo-golgo13/p2p-tuntap-go/p2pc/client"
+	"github.com/isgo-golgo13/p2p-tuntap-go/p2pc/client_config"
 )
 
 const (
