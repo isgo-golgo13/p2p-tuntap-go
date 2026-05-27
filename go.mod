@@ -1,4 +1,4 @@
-module github.com/isgo-golgo13/p2p_tunnel_svc
+module github.com/isgo-golgo13/p2p-tuntap-go
 
 go 1.15
 
